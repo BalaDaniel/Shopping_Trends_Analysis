@@ -1,6 +1,6 @@
 # Shopping_Trends_Analysis
-This projecct is about the shopping trends in the year.
-In this I found the insights like which product sold more, in which sector customers are interested and reginal wise more products sold.
+This project is about the shopping trends in the year.
+In this I found the insights like the products which genreate more salese, in which sector customers are more interested and reginal wise more products sold.
 
 ## Resources Used
 1. Shopping Trends dataset downloaded from kaggle website.
